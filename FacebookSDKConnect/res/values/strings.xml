@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Facebook SDK Connect</string>
+	<string name="connectButtonText">Connect with Facebook!</string>
+	<string name="app_id">PUT YOUR OWN FACEBOOK APPLICATION ID HERE</string>
+</resources>
