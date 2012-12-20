@@ -3,11 +3,14 @@ CodedayDecemberResources - FacebookSDKConnect
 
 ##What is this... I don't even
 Simply put, a very basic implementation of the Facebook Android SDK.
-When the app is run, click the "Connect with Facebook" button.
-You'll then be asked to authorize the application with your Facebook credentials if you've not already authorized it.
-Upon returning to the application, a dump of your Facebook account's data.
-You can change Line 43 in src/MainActivity.java to output specific information.
-For example, you can get your Facebook userID with by replacing line 43 with the following:
+<br />
+This application required Android 2.2 or higher.
+<br />
++When the app is running, click the "Connect with Facebook" button.
++You'll then be asked to authorize the application with your Facebook credentials if you've not already authorized it.
++Upon returning to the application, a dump of your Facebook account's data.
++You can change Line 43 in src/MainActivity.java to output specific information.
++For example, you can get your Facebook userID with by replacing line 43 with the following:
 	`dumpTextField.setText(user.getId());`
 
 ##Steps to get started
