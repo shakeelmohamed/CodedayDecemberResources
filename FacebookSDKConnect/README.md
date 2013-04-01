@@ -5,7 +5,7 @@ CodedayDecemberResources - FacebookSDKConnect
 Simply put, a very basic implementation of the Facebook Android SDK.
 <br />
 <strong>This application requires Android 2.2 or higher.</strong><br>
-<strong>This application was built using v2.0 of the Facebook Android SDK, therefoere this project is entirely useless.</strong>
+<strong>This application was built using v2.0 of the Facebook Android SDK, therefore this project is entirely useless.</strong>
 <br /><br />
 + When the app is running, click the "Connect with Facebook" button.
 + You'll then be asked to authorize the application with your Facebook credentials if you've not already authorized it.
