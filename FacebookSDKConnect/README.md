@@ -4,7 +4,8 @@ CodedayDecemberResources - FacebookSDKConnect
 ##What is this... I don't even
 Simply put, a very basic implementation of the Facebook Android SDK.
 <br />
-<strong>This application requires Android 2.2 or higher.</strong>
+<strong>This application requires Android 2.2 or higher.</strong><br>
+<strong>This application was built using v2.0 of the Facebook Android SDK, therefoere this project is entirely useless.</strong>
 <br /><br />
 + When the app is running, click the "Connect with Facebook" button.
 + You'll then be asked to authorize the application with your Facebook credentials if you've not already authorized it.
@@ -14,7 +15,7 @@ Simply put, a very basic implementation of the Facebook Android SDK.
 	`dumpTextField.setText(user.getId());`
 
 ##Steps to get started
-+ Go through the https://developers.facebook.com/docs/getting-started/facebook-sdk-for-android/3.0/
++ Go through the https://developers.facebook.com/docs/getting-started/facebook-sdk-for-android/2.0/
 + Make sure you're able to run at least one of the sample projects provided in the Android SDK before your continue.
 + Rename this project's package to something unique
 + Create a Facebook application and configure it according to your new application package
